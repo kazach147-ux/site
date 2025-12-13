@@ -286,5 +286,11 @@ main {
 .container {
   max-width: 900px;
   margin: 0 auto;
-}
+}.container h2 {
+  margin-top: 20px;
+  margin-bottom: 10px;
+  font-size: 20px;
+  color: #333;
+      }
+
 
