@@ -82,7 +82,22 @@ footer {
   main {
     padding: 20px 10px;
   }
+}.cta-button {
+  display: inline-block;
+  margin-top: 20px;
+  background: #ff9800;
+  color: #fff;
+  padding: 14px 22px;
+  border-radius: 8px;
+  text-decoration: none;
+  font-size: 18px;
+  font-weight: bold;
 }
+
+.cta-button:hover {
+  background: #e68900;
+    }
+
 
 
 
